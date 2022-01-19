@@ -8,6 +8,22 @@
 .navbar-custom .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(165,42,42, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
+.gap {
+  background-color: white;
+  padding: 24px 24px 24px 50px;
+}
+.button {
+  background-color: #00f2bb;
+  border: none;
+  color: black;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
 body{
       background-color: #A4A5A6; 
     }
