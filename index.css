@@ -37,5 +37,6 @@ body{
       color: yellow;
     }
 img{
-    width:60%;   
+    width:inherit;
+    height:inherit;
 }
