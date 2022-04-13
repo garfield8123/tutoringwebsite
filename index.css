@@ -1,5 +1,5 @@
 .navbar-custom { 
-    background-color: #CF9FFF; 
+    background-color: #a1f2ff; 
 } 
 .navbar-custom .navbar-brand, 
 .navbar-custom .navbar-text { 
@@ -13,7 +13,7 @@
   padding: 35px 24px 35px 50px;
 }
 .button {
-  background-color: #CF9FFF;
+  background-color: #a1f2ff;
   border: none;
   color: black;
   padding: 15px 15px;
