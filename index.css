@@ -13,9 +13,9 @@
   padding: 35px 24px 35px 50px;
 }
 .button {
-  background-color: #CF9FE1;
+  background-color: #a1f2ff;
   border: none;
-  color: black;
+  color: #CF9FE1;
   padding: 15px 15px;
   text-align: center;
   text-decoration: none;
@@ -31,10 +31,10 @@ body{
      text-align:center; 
     }
     a{
-      color: #a1f2ff;
+      color: #CF9FE1;
     }
     a:hover{
-      color: yellow;
+      color: #CF9FE1;
     }
 img{
     width:inherit;
