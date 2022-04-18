@@ -13,7 +13,7 @@
   padding: 35px 24px 35px 50px;
 }
 .button {
-  background-color: #a1f2ff;
+  background-color: #CF9FE1;
   border: none;
   color: black;
   padding: 15px 15px;
@@ -31,7 +31,7 @@ body{
      text-align:center; 
     }
     a{
-      color: black;
+      color: #a1f2ff;
     }
     a:hover{
       color: yellow;
