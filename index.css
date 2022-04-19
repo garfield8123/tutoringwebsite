@@ -30,11 +30,9 @@ body{
 h1, h2, h3, h4, h5, h6, p {
      text-align:center; 
 }
-a{
+a:link{
       color: #CF9FE1;
-    text-color: #CF9FE1;
 }
 a:hover{
   color: #CF9FE1;
-    text-color: #CF9FE1;
 }
