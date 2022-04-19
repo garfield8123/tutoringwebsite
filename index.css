@@ -32,11 +32,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 a{
       color: #CF9FE1;
+    text-color: #CF9FE1;
 }
 a:hover{
   color: #CF9FE1;
+    text-color: #CF9FE1;
 }
-/*img{
-    width:inherit;
-    height:inherit;
-}*/
